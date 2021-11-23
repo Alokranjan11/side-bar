@@ -1,0 +1,21 @@
+.font-small{
+    font-size:12px;
+}
+.font-medium{
+    font-size:15px
+}
+.font-large{
+    font-size:20px;
+}
+
+
+:root{
+    --red-500:#EF4444;
+}
+
+/* .disp-common{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} */
